@@ -1,1 +1,4 @@
-# GoblinWars
+- This is a v1 prototype and demonstrates functionality.
+- Developed in Unity. Only the code is stored here.
+- Detailed documentation can be found in the documentation.pdf
+- Video presentation found at https://www.youtube.com/watch?v=0SKJ0wdmScg
